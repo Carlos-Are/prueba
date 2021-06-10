@@ -4,7 +4,7 @@
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=0e40&deviceDNT=0&deviceModel=0
 
 #EXTINF:-1, Teleamazonas
-https://playback.akamaized.net/streams/1359588_4428723_lsipxhfafkya9y69f32_1/media/1359588_4428723_lsipxhfafkya9y69f32_1@2756000p.m3u8?dw=80&ts=1623326400&hdnts=exp=1623502233~acl=/streams/1359588_4428723_lsipxhfafkya9y69f32_1/media*~hmac=41bb913cd0a1f508935bce92308da2b46007b535becd8a8ff40ac3b0b808cfc0
+https://playback.akamaized.net/streams/1359588_4428723_lsipxhfafkya9y69f32_1/media/1359588_4428723_lsipxhfafkya9y69f32_1@2756000p.m3u8?dw=80&ts=1623326400&hdnts=exp=1623502233~acl=/streams/1359588_4428723_lsipxhfafkya9y69f32_1/media*~hmac=41bb913cd0a1f508935bce92308da2b46007b535becd8a8ff40ac3b0b808cfc
 
 #EXTINF:-1, RTS
 https://ec-rts-guayaquil-live.ned.media/rts/guayaquil.smil/.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjIzNDE2NTg0LCJzZXNzaW9uIjoiMTkyLjE0MC45Mi4xOTgiLCJ3aGl0ZWxpc3QiOlsiMTkyLjE0MC45Mi4xOTgiXX0sInNpZ25hdHVyZSI6Ijc2NzNjMDlhZWQxZGI1MmJiZmU3NzNkNDVjNmRlYzVhZGY1NWZiNTEifQ==
@@ -17,3 +17,6 @@ https://ec-tvc-tvc-live.ned.media/tvc/tvc.smil/.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjo
 
 #EXTINF:-1, NICK
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=2907&deviceDNT=0&deviceModel=0
+
+#EXTINF: -1,AMAZONA 
+https://playback.akamaized.net/streams/1359588_4428723_lsipxhfafkya9y69f32_1/media/1359588_4428723_lsipxhfafkya9y69f32_1@2756000p.m3u8?dw=80&ts=1623340800&hdnts=exp=1623516215~acl=/streams/1359588_4428723_lsipxhfafkya9y69f32_1/media*~hmac=07f689044c300aeff552809a918bbb6336be23cc5aa63f66f16f3e56d166fcf7
