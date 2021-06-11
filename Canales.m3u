@@ -26,5 +26,5 @@ https://d2q5ek69zn.azcdn130.net:8443/hls/glaldsq.m3u8?s=OovPjw46vVWFp6g1n8mf0w&e
 #EXTINF:-1, H&H
 https://d2q5ek69zn.azcdn130.net:8443/hls/adtxiz8zv.m3u8?s=cpGdnoI6kc3W1COWKs97jw&e=1623380594
 
-#EXTINF:-1,
+#EXTINF:-1, nic
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=11e9&deviceDNT=0&deviceModel=0
